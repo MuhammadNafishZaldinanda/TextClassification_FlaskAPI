@@ -10,3 +10,10 @@ http://localhost:5000/apidocs/#/
 ```
  https://indonlp.github.io/nusa-catalogue/card.html?id_google_play_review
 ```
+
+
+## Save Model & Vectorizer
+```
+ logreg.joblib
+ TF-IDF.joblib
+```
