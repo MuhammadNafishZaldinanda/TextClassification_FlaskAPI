@@ -1,6 +1,6 @@
 # Sentimen Analysis Indonesia Google Play
 
-## Run steamlit app
+## Run API
 ```
 python API.py
 http://localhost:5000/apidocs/#/
